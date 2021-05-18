@@ -12,5 +12,5 @@ PROGRAMACIÓN:
 
 *La aplicación que usamos fue (import java.util.Scanner) con esa aplicación accedio al Scanner y y la forma que se programo el trabajo
 
-*Material de tu trabajo o proceso
+*Material de tu trabajo o proceso:
 https://www.youtube.com/watch?v=gZBf8Bne4GI

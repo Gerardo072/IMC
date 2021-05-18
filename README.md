@@ -1,5 +1,6 @@
 # Farmacias-PMG
 
+https://gerardo072.github.io/IMC/
 
 En este programa vamos hablar acerca de las "Farmacias PMG" que son usuarios que colocan las alturas, tamaños y pesos, por consiguiente, el programa determinara el IMC del usuario, debemos ver los usuarios que usamos para crear el índice y que parte esta tan mala.
 
